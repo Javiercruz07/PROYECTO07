@@ -1,4 +1,4 @@
-# PROYECTO07
+# PROYECTO 07
 PROYECTO DEL SPRING 07 JAVIER CRUZ
 
 Enlace a mi aplicación
